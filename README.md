@@ -92,11 +92,11 @@ The screenshots below show the core KPI and category queries executed in pgAdmin
 
 ### Core KPIs
 
-![Core KPI query and results](screenshots/core-kpis.png)
+![Core KPI query and results](core-kpis.png)
 
 ### Revenue and profit by category
 
-![Category revenue and profit query results](screenshots/category-results.png)
+![Category revenue and profit query results](category-results.png)
 
 ## Key Insights
 
